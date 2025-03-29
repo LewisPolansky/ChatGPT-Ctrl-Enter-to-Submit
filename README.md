@@ -1,6 +1,6 @@
-# Use Ctrl+Enter to Submit Prompts!
+# Use Ctrl+Enter to Submit Prompts
 
-Adds a `Ctrl + Enter` keyboard shortcut to submit prompts on ChatGPT.
+I got fed up with the inconsistent `Enter` key functionality on ChatGPT, so if you'd like the option to use `Ctrl + Enter` to send prompts, here's my tapermonkey script
 
 ## Super Easy Installation
 
